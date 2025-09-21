@@ -1,16 +1,19 @@
-## Hi there 👋
+## About me
+
+I am Jean-Baptiste, French engineer, having worked 10 years as a technical consultant for water and electrical utilities in France and abroad.
+- 🔭 I’m currently working water systems and energy infrastructures modeling and the financial implications related to these subjects.
+- 🌱 I’m currently doing some research and readings on climate change modeling and economics.
+- 👯 I’m looking to collaborate on any projects related to these matters that you may have !
+  
 
 <!--
-**jbabbes/jbabbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
